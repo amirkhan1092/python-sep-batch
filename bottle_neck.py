@@ -14,6 +14,6 @@ mx = max([lst.count(i) for i in lst])
 #         mx = count
 
 print(mx)
-=======
+
 # solution
->>>>>>> 9c9d1866615a8dddf3831a80ed135f7058eff619
+# >>>>>>> 9c9d1866615a8dddf3831a80ed135f7058eff619
